@@ -1,4 +1,4 @@
-☣️ # MoshiGrabber ☣️
+☣️  Moshi Grabber ☣️
 
 ! USE AT EDUCATIONAL PURPOSES ONLY !
 
