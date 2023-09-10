@@ -1,1 +1,2 @@
-"builder.exe" will download everything automatically for you.
+"MoshiGrabberV1.py" will have everything automatically for you.
+Make sure to read READme.txt
